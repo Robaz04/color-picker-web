@@ -1,6 +1,6 @@
 # Robby Azwan Saputra 
 # 140810230008
-# Website Color Picker Using Streamlit
+# Website Palette Color Picker Using Streamlit
 import streamlit as st
 from PIL import Image
 from PIL import ImageDraw

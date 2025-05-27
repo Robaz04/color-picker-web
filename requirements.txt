@@ -1,7 +1,7 @@
 streamlit
 numpy
+io
 json
 scikit-learn
-io
 pillow
 matplotlib

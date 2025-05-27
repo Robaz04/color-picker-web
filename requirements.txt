@@ -1,6 +1,5 @@
 streamlit
 numpy
-json
 scikit-learn
 pillow
 matplotlib

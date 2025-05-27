@@ -1,6 +1,5 @@
 streamlit
 numpy
-io
 json
 scikit-learn
 pillow
